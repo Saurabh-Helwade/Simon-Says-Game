@@ -5,7 +5,7 @@ A fun and interactive Simon Says game created using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Screenshot](Screenshots/Screenshot 2024-07-30 220857.png)
+![Screenshot](https://github.com/Saurabh-Helwade/Simon-Says-Game/blob/5c6a36dd6fd3b82032bb19e6dfc2baf65af098cf/Screenshots/Screenshot%202024-07-30%20220857.png)
 
 
 ## Description
