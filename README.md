@@ -10,7 +10,7 @@ Simon Says is an electronic game of short-term memory skill, originally invented
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Live Project](#Live Project)
+- [Live Project](#LiveProject)
 ## Overview
 This project is a web-based implementation of the classic Simon Says game, developed using HTML, CSS, and JavaScript. The game generates a series of tones and lights, and the player must repeat the sequence correctly to progress to the next level.
 
